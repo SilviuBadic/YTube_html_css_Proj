@@ -1,0 +1,43 @@
+.home_buttons{
+  height: 500px;
+  width: 70px;
+  display: flex;
+  align-items: center;
+  left: 0px;
+  bottom: 0px;
+  position: fixed;
+  z-index: 200;
+  background-color: white;
+  flex-direction: column;
+  top: 65px;
+}
+
+
+.sidebar_icon{
+  height: 74px;
+  width: 100%;
+  display: inline-block;
+  font-size: 12px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  left: 0;
+  right: 0;
+  padding: 0px 0 0px;
+  outline: 0;
+}
+
+.sidebar_icon:hover{
+  background-color: rgba(0, 0, 0, 0.05);
+  border-radius: 10px 10px 10px 10px;
+}
+.sidebar_icon img{
+  height: 24px;
+  margin-bottom: 5px;
+}
+
+.titles{
+  padding-top: 5px;
+}
