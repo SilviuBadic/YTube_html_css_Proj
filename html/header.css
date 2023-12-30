@@ -10,7 +10,6 @@
     right: 0px;
     position: fixed;
     z-index: 100;
-
 }
 
 .left_side{
@@ -20,10 +19,10 @@
 
 .center{
     display: flex;
-    margin-left: 70px;
+    margin-left: 0px;
     margin-right: 30px;
-    max-width: 700px;
-    min-width: 0px;
+    max-width: 500px;
+    min-width: 50px;
     align-items: center;
     height: 57px;
 }
@@ -80,8 +79,6 @@
     border-color: rgb(165, 160, 160);
     margin-left:-1px;
     border-radius: 0 20.5px 20.5px 0;
-
-   
 }
 
 .search_button:hover{
@@ -198,5 +195,85 @@
 .profile_box{
     margin-left: 20px;
     cursor: pointer;
-   
+}
+
+@media (max-width: 650px){
+ 
+    .youtube_logo{
+        height: 16px;
+        cursor: pointer;
+    }
+  
+    .right_side{
+      width:100px;
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+      margin-right: 24px;
+  }
+
+  .text_area{
+    width: 500px;
+    margin-left: 10px;
+    border-radius: 20px 0px 0px 20px;
+    flex:1;
+    height: 38px;
+    max-width: 500px;
+    min-width: 50px;
+    box-shadow: inset 1px 2px 5px rgb(232, 229, 229);
+    border-width: 1px;
+    border-style: solid;
+    border-color:rgb(210, 214, 229);
+    padding-left: 20px;
+    
+}
+
+.voice_logo{
+    height: 30px;
+    width: 30px;
+    background-color: #f8f8f8;
+    margin-left: 0px;
+    cursor: pointer;
+    text-decoration: none;
+    outline: none;
+    border:none;
+    border-radius: 20px;
+}
+
+.video_icon{
+    width: 30px;
+    height: 30px;
+    background-color: #f8f8f8;
+    cursor: pointer;
+    text-decoration: none;
+    outline: none;
+    border:none;
+    margin-left: 10px;
+    border-radius: 18px;
+}
+
+.notification-box{
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+}
+
+.profile_pic{
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+}
+
+.profile_box{
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+.menu_icon{
+    height: 28px;
+    margin-left: 0px;
+    padding-right: 0px;
+    cursor: pointer;
+    width: 10px;
+}
 }

@@ -122,4 +122,11 @@ p {
   .grid-section{
     grid-template-columns: 1fr;
   }
+  .menu_icon{
+    height: 16px;
+    margin-left: 24px;
+    padding-right: 24px;
+    cursor: pointer;
+}
+
 }
