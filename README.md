@@ -16,6 +16,9 @@ https://silviubadic.github.io/youtube-layout-remake-html-css/html/index.html
 <br>
 <br>
 <img width="550" alt="2" src="https://github.com/SilviuBadic/youtube-layout-remake-html-css/assets/130041755/553a3a7b-c527-4044-94c0-d980f5cae30a">
+<br>
+<br>
+<img width="550" alt="3" src="https://github.com/SilviuBadic/youtube-layout-remake-html-css/assets/130041755/8cb9535a-2e25-4936-a0bb-f02f99439805">
 
 
 
