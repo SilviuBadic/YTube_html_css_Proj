@@ -50,7 +50,7 @@ Here are some related projects of mine (improvements)
 
 [mySite_around_the_world_js_css_html](https://github.com/SilviuBadic/mySite_around_the_world-js_css_html) 
 
-[MyPortfolio](https://github.com/SilviuBadic/MyPortfolio)
+[MyPortfolio](https://github.com/SilviuBadic/portfolio)
 
 
 ## 🛠 Skills used in this project
