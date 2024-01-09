@@ -12,13 +12,13 @@ You can check out the live version here:
 https://silviubadic.github.io/youtube-layout-remake-html-css/html/index.html
 
 ## Screenshots
-<img width="550" alt="1" src="https://github.com/SilviuBadic/youtube-layout-remake-html-css/assets/130041755/68b2fac1-a335-4c65-8304-e7a91e2fa40a"> 
+<img width="1050" alt="1" src="https://github.com/SilviuBadic/youtube-layout-remake-html-css/assets/130041755/68b2fac1-a335-4c65-8304-e7a91e2fa40a"> 
 <br>
 <br>
-<img width="550" alt="2" src="https://github.com/SilviuBadic/youtube-layout-remake-html-css/assets/130041755/553a3a7b-c527-4044-94c0-d980f5cae30a">
+<img width="1050" alt="2" src="https://github.com/SilviuBadic/youtube-layout-remake-html-css/assets/130041755/553a3a7b-c527-4044-94c0-d980f5cae30a">
 <br>
 <br>
-<img width="550" alt="3" src="https://github.com/SilviuBadic/youtube-layout-remake-html-css/assets/130041755/ddadb78d-d120-4334-972c-f2d7a5cc32c8">
+<img width="1050" alt="3" src="https://github.com/SilviuBadic/youtube-layout-remake-html-css/assets/130041755/ddadb78d-d120-4334-972c-f2d7a5cc32c8">
 
 
 
