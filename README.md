@@ -37,8 +37,6 @@ As I mentioned in description, I managed to learn the first steps as a front end
 
 A first challenge was to easily display my main titles into three columns and to create the sidebar. I manage to overcome this by using flexbox (display grid & display flexbox). Another challenge was to mantain a nice layout even when narrowing the screen or using a bigger device. I managed to overcome this by using and learning new things about @media.
 
-It was a good starting point to understand the basics of HTML and CSS.
-
 ## Optimizations
 
 It was a good starting point to understand the basics of HTML and CSS, and to start some new fun and interesting projects.
