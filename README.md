@@ -44,11 +44,11 @@ It was a good starting point to understand the basics of HTML and CSS, and to st
 
 ## Related
 
-Here are some related projects of mine (improvements)
+Here are some other related projects
 
-[mySite_around_the_world_js_css_html](https://github.com/SilviuBadic/mySite_around_the_world-js_css_html) 
+[Amazon Project](https://github.com/SilviuBadic/Javascript-Amazon-Project) 
 
-[MyPortfolio](https://github.com/SilviuBadic/portfolio)
+[Tic-Tac-Toe](https://github.com/SilviuBadic/tic-tac-toe-javascript)
 
 
 ## 🛠 Skills used in this project
